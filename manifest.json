@@ -1,6 +1,5 @@
 {
  "name": "AltaVida - Dpto. PB",
- "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños."
+ "description": "Un complejo seguro y accesible, de ubicación privilegiada que ofrece amplios espacios pensados exclusivamente para que disfrutes del hogar de tus sueños.",
+ "background_color": "#FFFFFF"
 }
